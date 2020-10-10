@@ -1,0 +1,15 @@
+SPECIFICATIONS
+
+- enviar_email.py -> Email the newly registered user
+
+- enviar_info.py -> Send information via local server to Bank 99
+
+- filtragem_preco.py -> Deliver final price of products
+
+- limpar_varredura.py -> Returns a .txt with cart products
+
+- limpar_varredura_del.py -> Returns a .txt with products removed from cart
+
+- requisicao_*.py -> Make a request on the local server according to what the C program needs
+
+- varredura.bat and varredura_*.bat -> Create a .txt with the files inside the cart folder and do what the Python program needs

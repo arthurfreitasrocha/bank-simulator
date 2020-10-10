@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1566159479 source:c:\users\arthur\desktop\banco ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1565915789 c:\users\arthur\desktop\banco ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1565973406 source:c:\users\arthur\desktop\banco ap2\untitled1.c
+	<stdio.h>
+
+1566160046 source:e:\projeto ap2\banco ap2\resource.rc
+
+1566213724 source:e:\projeto ap2\banco ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1565915790 e:\projeto ap2\banco ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566213724 source:f:\projeto ap2\banco ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1565915790 f:\projeto ap2\banco ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:f:\projeto ap2\banco ap2\resource.rc
+
+1566160046 source:c:\users\arthur\desktop\projeto ap2\banco ap2\resource.rc
+
+1567166586 source:c:\users\arthur\desktop\projeto ap2\banco ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1566746244 c:\users\arthur\desktop\projeto ap2\banco ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:c:\users\arthu\desktop\projeto ap2\banco ap2\resource.rc
+
+1566748517 source:c:\users\arthu\desktop\projeto ap2\banco ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1566746244 c:\users\arthu\desktop\projeto ap2\banco ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:c:\users\arthu\desktop\projeto ap2\resource.rc
+
+1567203225 source:c:\users\arthu\desktop\projeto ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1567203347 c:\users\arthu\desktop\projeto ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:c:\users\arthu\onedrive\Área de trabalho\projeto ap2\resource.rc
+
+1567736726 source:c:\users\arthu\onedrive\Área de trabalho\projeto ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1567531914 c:\users\arthu\onedrive\Área de trabalho\projeto ap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:c:\users\arthu\onedrive\documentos\projetoap2\resource.rc
+
+1569162942 source:c:\users\arthu\onedrive\documentos\projetoap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1567531914 c:\users\arthu\onedrive\documentos\projetoap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1569265694 source:c:\users\arthu\projetoap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1567531914 c:\users\arthu\projetoap2\scanint.h
+	<stdio.h>
+	<stdlib.h>
+
+1566160046 source:c:\users\arthu\projetoap2\resource.rc
+
+1566160046 source:c:\users\arthu\projetoap2\banco 99\resource.rc
+
+1575055313 source:c:\users\arthu\projetoap2\banco 99\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	"scanint.h"
+
+1575055187 c:\users\arthu\projetoap2\banco 99\scanint.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1566160046 source:c:\users\arthu\projetoap2\banco_99\resource.rc
+

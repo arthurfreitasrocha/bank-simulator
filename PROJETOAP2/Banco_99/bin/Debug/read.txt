@@ -1,0 +1,9 @@
+SPECIFICATIONS
+
+- caixa eletronico.py and caixa_menu.py -> Bank 99 ATM
+
+- contas_block.bat -> Returns a .txt with the name of all files and folders in the directory it is in.
+
+- enviar_email.py and enviar_email_*.py -> Sends email as needed in C program
+
+- build_card.py - Create Bank 99 Card for Customer

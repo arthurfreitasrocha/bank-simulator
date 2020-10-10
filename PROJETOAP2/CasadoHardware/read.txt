@@ -1,0 +1,7 @@
+SPECIFICATIONS
+
+- casa hardware.cbp -> Contains code from "Casa do Hardware" in C inside Code::Blocks IDE
+
+- gear_106450.ico -> "Casa do Hardware" icon
+
+- main.c -> Main code of the "Casa do Hardware"

@@ -1,0 +1,9 @@
+SPECIFICATIONS
+
+- app.py and main.py -> Server and its settings
+
+- autenticacao.py and autenticacao_*.py -> Information Authentication and Database Handling
+
+- verificacao.py and verificacao_*.py -> Checks if the .txt file containing the required information has arrived
+
+- exec.bat and exec_*.bat -> Performs a series of processes for using the verification and authentication files.

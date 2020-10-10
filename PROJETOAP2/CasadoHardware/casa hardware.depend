@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575079281 source:c:\users\arthu\projetoap2\casa do hardware\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+
+1575045958 c:\users\arthu\projetoap2\casa do hardware\scanint.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575257689 source:c:\users\arthu\projetoap2\casadohardware\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+
+1575227818 source:c:\users\arthu\projetoap2\casadohardware\resource.rc
+

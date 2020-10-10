@@ -1,0 +1,9 @@
+SPECIFICATIONS
+
+- banco ap2.cbp -> Contains code from "Banco 99" in C inside Code::Blocks IDE
+
+- icone.ico -> "Banco 99" icon
+
+- main.c -> Main code of the "Banco 99"
+
+- scanint.h -> A library I created for error handling
